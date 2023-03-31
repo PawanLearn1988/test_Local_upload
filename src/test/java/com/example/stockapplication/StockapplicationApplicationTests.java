@@ -8,6 +8,8 @@ class StockapplicationApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		//this is test class
 	}
 
 }
